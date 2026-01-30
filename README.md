@@ -1,0 +1,1 @@
+# Mall-Customer-Segmentation-based-on-income-and-spending-score
